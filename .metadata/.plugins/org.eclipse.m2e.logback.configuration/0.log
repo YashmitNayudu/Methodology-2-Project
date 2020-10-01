@@ -1,0 +1,375 @@
+2020-09-30 14:26:23,223 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-09-30 14:30:52,271 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Shifty:Shifty:0.0.1-SNAPSHOT @ C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\pom.xml.
+2020-09-30 14:30:53,732 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Shifty/src
+2020-09-30 14:30:53,733 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Shifty/src/test/java because it overlaps with /Shifty/src
+2020-09-30 14:30:54,436 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-09-30 14:30:54,795 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Shifty:Shifty:0.0.1-SNAPSHOT @ C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\pom.xml.
+2020-09-30 14:30:55,586 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Shifty/src
+2020-09-30 14:30:55,588 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Shifty/src/test/java because it overlaps with /Shifty/src
+2020-09-30 14:30:56,087 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Shifty
+2020-09-30 14:30:56,117 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-09-30 14:30:56,265 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 14:30:56,275 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 14:30:56,277 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 14:30:56,288 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 14:30:56,289 [Worker-15: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Shifty
+2020-09-30 14:30:56,289 [Worker-15: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Shifty
+2020-09-30 14:30:56,327 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:19:59,675 [Worker-61: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Firsttrial:Firsttrial:0.0.1-SNAPSHOT @ C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\pom.xml.
+2020-09-30 21:20:00,729 [Worker-61: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:20:00,735 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:20:00,737 [Worker-61: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:20:00,743 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:20:00,820 [Worker-61: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Shifty
+2020-09-30 21:20:00,820 [Worker-61: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Shifty
+2020-09-30 21:20:00,825 [Worker-61: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:20:01,965 [Worker-55: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:20:01,976 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:20:01,978 [Worker-55: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:20:01,990 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:20:23,221 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:20:23,227 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:20:23,228 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:20:23,235 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:20:41,792 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:20:41,799 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:20:41,800 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:20:41,807 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:20:44,885 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:20:44,892 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:20:44,893 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:20:44,899 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:21:16,911 [Worker-62: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:21:16,919 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:21:16,920 [Worker-62: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:21:16,929 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:22:17,553 [Worker-55: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-09-30 21:22:17,942 [Worker-55: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Firsttrial:Firsttrial:0.0.1-SNAPSHOT @ C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\pom.xml.
+2020-09-30 21:22:18,654 [Worker-55: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Shifty/src
+2020-09-30 21:22:18,655 [Worker-55: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Shifty/src/test/java because it overlaps with /Shifty/src
+2020-09-30 21:22:19,866 [Worker-55: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Shifty
+2020-09-30 21:22:19,877 [Worker-55: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-09-30 21:22:20,047 [Worker-65: Building Project Shifty] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:22:20,058 [Worker-65: Building Project Shifty] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:22:20,060 [Worker-65: Building Project Shifty] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:22:20,070 [Worker-65: Building Project Shifty] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:22:20,071 [Worker-65: Building Project Shifty] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Shifty
+2020-09-30 21:22:20,071 [Worker-65: Building Project Shifty] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Shifty
+2020-09-30 21:22:20,075 [Worker-65: Building Project Shifty] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:22:21,222 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:22:21,230 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:22:21,231 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:22:21,239 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:22:29,925 [Worker-61: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-09-30 21:22:30,262 [Worker-61: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Firsttrial:Firsttrial:0.0.1-SNAPSHOT @ C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\pom.xml.
+2020-09-30 21:22:30,885 [Worker-61: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Shifty/src
+2020-09-30 21:22:30,886 [Worker-61: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Shifty/src/test/java because it overlaps with /Shifty/src
+2020-09-30 21:22:31,342 [Worker-61: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Shifty
+2020-09-30 21:22:31,346 [Worker-61: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-09-30 21:22:31,649 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:22:31,656 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:22:31,658 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:22:31,665 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:22:31,665 [Worker-59: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Shifty
+2020-09-30 21:22:31,665 [Worker-59: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Shifty
+2020-09-30 21:22:31,668 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:22:37,867 [Worker-62: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:22:37,874 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:22:37,875 [Worker-62: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:22:37,884 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:23:26,442 [Worker-55: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:23:26,449 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:23:26,450 [Worker-55: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:23:26,460 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:23:47,959 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:23:47,967 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:23:47,968 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:23:47,976 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:24:01,136 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:24:01,142 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:24:01,143 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:24:01,149 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:24:47,751 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:24:47,762 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:24:47,763 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:24:47,772 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:25:27,224 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:25:27,234 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:25:27,236 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:25:27,247 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:25:48,839 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:25:48,847 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:25:48,849 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:25:48,856 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:26:10,474 [Worker-62: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:26:10,481 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:26:10,482 [Worker-62: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:26:10,489 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:26:42,943 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:26:42,951 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:26:42,952 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:26:42,960 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:41:53,774 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:41:53,781 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:41:53,781 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:41:53,787 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:42:30,527 [Worker-61: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:42:30,534 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:42:30,534 [Worker-61: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:42:30,540 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:44:01,795 [Worker-61: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:44:01,803 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:44:01,804 [Worker-61: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:44:01,810 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:44:48,765 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:44:48,771 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:44:48,772 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:44:48,777 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:45:16,565 [Worker-61: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:45:16,574 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:45:16,575 [Worker-61: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:45:16,581 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:45:46,027 [Worker-68: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:45:46,034 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:45:46,035 [Worker-68: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:45:46,041 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:46:26,587 [Worker-72: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-09-30 21:46:26,887 [Worker-72: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Firsttrial:Firsttrial:0.0.1-SNAPSHOT @ C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\pom.xml.
+2020-09-30 21:46:27,463 [Worker-72: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Shifty/src
+2020-09-30 21:46:27,464 [Worker-72: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Shifty/src/test/java because it overlaps with /Shifty/src
+2020-09-30 21:46:27,944 [Worker-72: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Shifty
+2020-09-30 21:46:27,949 [Worker-72: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-09-30 21:46:28,332 [Worker-68: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:46:28,339 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:46:28,340 [Worker-68: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:46:28,346 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:46:28,346 [Worker-68: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Shifty
+2020-09-30 21:46:28,346 [Worker-68: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Shifty
+2020-09-30 21:46:28,350 [Worker-68: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:48:46,717 [Worker-71: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-09-30 21:48:47,025 [Worker-71: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Firsttrial:Firsttrial:0.0.1-SNAPSHOT @ C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\pom.xml.
+2020-09-30 21:48:47,579 [Worker-71: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Shifty/src
+2020-09-30 21:48:47,579 [Worker-71: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Shifty/src/test/java because it overlaps with /Shifty/src
+2020-09-30 21:48:47,994 [Worker-71: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Shifty
+2020-09-30 21:48:47,998 [Worker-71: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-09-30 21:48:48,286 [Worker-73: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:48:48,292 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:48:48,293 [Worker-73: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:48:48,301 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:48:48,302 [Worker-73: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Shifty
+2020-09-30 21:48:48,302 [Worker-73: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Shifty
+2020-09-30 21:48:48,305 [Worker-73: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:50:22,150 [Worker-76: Launching Maven Compile] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty
+2020-09-30 21:50:22,153 [Worker-76: Launching Maven Compile] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2020-09-30 21:50:22,253 [Worker-72: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:50:22,262 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:50:22,263 [Worker-72: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:50:22,269 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:52:31,452 [Worker-73: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:52:31,459 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:52:31,460 [Worker-73: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:52:31,469 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:52:41,250 [Worker-73: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:52:41,257 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:52:41,257 [Worker-73: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:52:41,263 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:53:10,789 [Worker-71: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:53:10,798 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:53:10,800 [Worker-71: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:53:10,808 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:53:18,183 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:53:18,189 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:53:18,190 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:53:18,195 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:53:34,812 [Worker-77: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:53:34,818 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:53:34,819 [Worker-77: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:53:34,824 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:54:02,049 [Worker-71: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:54:02,055 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:54:02,056 [Worker-71: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:54:02,062 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:54:15,422 [Worker-77: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:54:15,429 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:54:15,429 [Worker-77: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:54:15,436 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:54:18,511 [Worker-71: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:54:18,517 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:54:18,518 [Worker-71: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:54:18,526 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:55:05,452 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:55:05,458 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:55:05,459 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:55:05,464 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:55:31,869 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:55:31,875 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:55:31,876 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:55:31,883 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:55:39,408 [Worker-80: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:55:39,416 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:55:39,417 [Worker-80: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:55:39,423 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:56:07,028 [Worker-77: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:56:07,037 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:56:07,038 [Worker-77: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:56:07,044 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:56:16,020 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:56:16,026 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:56:16,027 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:56:16,034 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:56:22,859 [Worker-77: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:56:22,867 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:56:22,868 [Worker-77: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:56:22,874 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:57:06,048 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:57:06,054 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:57:06,055 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:57:06,061 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:57:21,245 [Worker-71: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:57:21,251 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:57:21,252 [Worker-71: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:57:21,258 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:57:40,235 [Worker-73: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:57:40,242 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:57:40,243 [Worker-73: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:57:40,249 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:57:51,586 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:57:51,592 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:57:51,593 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:57:51,599 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:58:04,810 [Worker-72: Launching Maven Compile] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty
+2020-09-30 21:58:04,810 [Worker-72: Launching Maven Compile] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2020-09-30 21:58:56,067 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:58:56,074 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:58:56,075 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:58:56,081 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 21:58:57,162 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:58:57,168 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 21:58:57,169 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 21:58:57,176 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 22:02:59,780 [Worker-71: Launching Maven Compile] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty
+2020-09-30 22:02:59,780 [Worker-71: Launching Maven Compile] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2020-09-30 22:06:37,798 [Worker-72: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 22:06:37,804 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 22:06:37,805 [Worker-72: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 22:06:37,812 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 22:07:18,483 [Worker-80: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Firsttrial:Shifty:0.0.1-SNAPSHOT @ C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\pom.xml.
+2020-09-30 22:07:19,172 [Worker-80: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 22:07:19,178 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 22:07:19,180 [Worker-80: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 22:07:19,186 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 22:07:19,186 [Worker-80: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Shifty
+2020-09-30 22:07:19,186 [Worker-80: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Shifty
+2020-09-30 22:07:19,190 [Worker-80: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 22:07:57,155 [Worker-80: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 22:07:57,163 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 22:07:57,165 [Worker-80: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 22:07:57,171 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 22:11:00,367 [Worker-71: Launching Maven Compile] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty
+2020-09-30 22:11:00,367 [Worker-71: Launching Maven Compile] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2020-09-30 22:12:01,278 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 22:12:01,285 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 22:12:01,286 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 22:12:01,292 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 22:12:28,349 [Worker-84: Launching Maven Compile] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty
+2020-09-30 22:12:28,349 [Worker-84: Launching Maven Compile] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2020-09-30 22:13:41,704 [Worker-82: reload maven project] ERROR o.e.m2e.editor.pom.MavenPomEditor - failed to load maven project for org.eclipse.ui.part.FileEditorInput(/Shifty/pom.xml)
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:850)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$22(ProjectRegistryManager.java:1069)
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:4878)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3529)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2278)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2155)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2045)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3953)
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:4873)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1068)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:243)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:261)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:634)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$3.run(MavenPomEditor.java:938)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2020-09-30 22:13:59,467 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2020-09-30 22:13:59,578 [Worker-82: Launching Maven Compile] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty
+2020-09-30 22:13:59,578 [Worker-82: Launching Maven Compile] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2020-09-30 22:14:09,610 [Worker-84: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Firsttrial:Shifty:0.1 @ C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\pom.xml.
+2020-09-30 22:14:10,304 [Worker-84: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 22:14:10,312 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 22:14:10,314 [Worker-84: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 22:14:10,322 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 22:14:10,323 [Worker-84: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Shifty
+2020-09-30 22:14:10,323 [Worker-84: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Shifty
+2020-09-30 22:14:10,326 [Worker-84: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 22:14:11,690 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 22:14:11,696 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 22:14:11,698 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 22:14:11,704 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 22:14:17,416 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2020-09-30 22:14:17,525 [Worker-85: Launching Maven Compile] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty
+2020-09-30 22:14:17,525 [Worker-85: Launching Maven Compile] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2020-09-30 22:16:49,588 [Worker-82: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 22:16:49,603 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 22:16:49,605 [Worker-82: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 22:16:49,616 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 22:18:15,472 [Worker-71: Launching Maven Compile] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty
+2020-09-30 22:18:15,472 [Worker-71: Launching Maven Compile] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2020-09-30 22:18:46,246 [Worker-71: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 22:18:46,253 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 22:18:46,254 [Worker-71: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 22:18:46,263 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 22:19:25,026 [Worker-86: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 22:19:25,034 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 22:19:25,035 [Worker-86: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 22:19:25,043 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 22:19:30,794 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 22:19:30,801 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 22:19:30,802 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 22:19:30,810 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 22:19:30,811 [Worker-83: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Shifty
+2020-09-30 22:19:30,811 [Worker-83: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Shifty
+2020-09-30 22:19:30,815 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 22:19:37,348 [Worker-82: Launching Maven Compile] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty
+2020-09-30 22:19:37,349 [Worker-82: Launching Maven Compile] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2020-09-30 22:19:47,102 [Worker-82: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 22:19:47,110 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 22:19:47,111 [Worker-82: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 22:19:47,117 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 22:20:09,804 [Worker-83: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: MVCProject:Shifty:0.1 @ C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\pom.xml.
+2020-09-30 22:20:10,560 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 22:20:10,567 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 22:20:10,568 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 22:20:10,574 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 22:20:10,575 [Worker-83: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Shifty
+2020-09-30 22:20:10,575 [Worker-83: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Shifty
+2020-09-30 22:20:10,578 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 22:20:22,489 [Worker-82: Launching Maven Compile] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty
+2020-09-30 22:20:22,489 [Worker-82: Launching Maven Compile] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2020-09-30 22:20:31,740 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 22:20:31,747 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 22:20:31,748 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 22:20:31,755 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 22:22:10,762 [Worker-84: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 22:22:10,770 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 22:22:10,771 [Worker-84: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 22:22:10,777 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 22:22:34,018 [Worker-87: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 22:22:34,027 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 22:22:34,028 [Worker-87: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 22:22:34,035 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 22:22:40,560 [Worker-87: Launching Maven Compile] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty
+2020-09-30 22:22:40,560 [Worker-87: Launching Maven Compile] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2020-09-30 22:22:48,828 [Worker-89: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 22:22:48,833 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 22:22:48,834 [Worker-89: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 22:22:48,841 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 22:24:30,729 [Worker-84: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 22:24:30,734 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 22:24:30,736 [Worker-84: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 22:24:30,742 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources
+2020-09-30 22:25:52,848 [Worker-84: Launching Maven Compile] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty
+2020-09-30 22:25:52,849 [Worker-84: Launching Maven Compile] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2020-09-30 22:26:03,211 [Worker-84: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 22:26:03,217 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\main\resources
+2020-09-30 22:26:03,218 [Worker-84: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-30 22:26:03,225 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\Shifty\src\test\resources

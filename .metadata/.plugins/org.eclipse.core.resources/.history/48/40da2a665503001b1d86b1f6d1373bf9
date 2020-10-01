@@ -1,0 +1,16 @@
+/**
+ * 
+ */
+package com.Shifty.controller;
+
+/**
+ * @author yashm
+ *
+ */
+@Controller
+public class Controller {
+	@RequestMapping("/login")
+	public ModelAndView LoginPage() {
+		return new ModelAndView("login", message);
+	}
+}

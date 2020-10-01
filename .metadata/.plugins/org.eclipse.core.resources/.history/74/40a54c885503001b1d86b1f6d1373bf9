@@ -1,0 +1,14 @@
+package com.Shifty.controller;
+import org.springframework.stereotype.Controller;
+
+/**
+ * @author yashm
+ *
+ */
+@Controller
+public class Controller {
+	@RequestMapping("/login")
+	public ModelAndView LoginPage() {
+		return new ModelAndView("login", message);
+	}
+}

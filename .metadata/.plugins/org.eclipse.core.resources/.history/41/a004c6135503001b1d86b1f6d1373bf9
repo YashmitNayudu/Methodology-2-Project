@@ -1,0 +1,13 @@
+/**
+ * 
+ */
+package com.Shifty.controller;
+
+/**
+ * @author yashm
+ *
+ */
+@Controller
+public class Controller {
+
+}

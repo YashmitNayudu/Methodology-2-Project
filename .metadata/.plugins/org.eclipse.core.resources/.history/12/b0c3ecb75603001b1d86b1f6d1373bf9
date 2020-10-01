@@ -1,0 +1,17 @@
+
+/**
+ * @author yashmit
+ *
+ */
+
+package com.Shifty.controller;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public ModelAndView HyperLinks{
+	@RequestMapping("/login")
+	public ModelAndView LoginPage() {
+		return new ModelAndView("login", message);
+	}
+}
