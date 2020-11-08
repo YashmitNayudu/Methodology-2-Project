@@ -1,3 +1,4 @@
+<%@taglib uri = "http://www.springframework.org/tags/form" prefix = "form"%>
 <%@ taglib prefix="spring" uri="http://www.springframework.org/tags"%>
 <spring:url value="/resources/background.jpg" var="BackgrndIMG" />
 <!doctype html>
@@ -35,10 +36,10 @@ p{
 	<h1>Employee Login</h1>
   
 
-<p>Username
-  <input type="text">
+<p><form:label path="userName">Username</form:label>
+  <form:input path="userName" /><input type="text">
 </p>
-<p>Password
+<p><form:label path="password">Password</form:label>
   <input type="password">
 </p>
 	
@@ -47,36 +48,34 @@ p{
 </p>
 	
 <table width="300" border="3" align="center" bordercolor="black">
-  <tbody>
     <tr>
 		<td colspan="2"><p>Employee Login Record</p></td>
       
     </tr>
     <tr>
-		<td><p>User</p></td>
-      <td><p>Time</p></td>
+		<th><p>User</p></th>
+		<th><p>Time</p></th>
     </tr>
     <tr>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+        <td>${id1}</td>
+        <td>${time1}</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
+        <td>&nbsp;</td>
 		<td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
     </tr>
-  </tbody>
 </table>
 </body>
 </html>

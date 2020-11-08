@@ -34,8 +34,7 @@ public class ArrayOutput {
     }
     
     
-    static ArrayList<ArrayOutput> readProducts() throws XMLStreamException
-    {
+    static ArrayList<ArrayOutput> readProducts() throws XMLStreamException{
     ArrayList<ArrayOutput> products = new ArrayList<ArrayOutput>();
     ArrayOutput p = null;
     XMLInputFactory inputFactory = XMLInputFactory.newFactory();

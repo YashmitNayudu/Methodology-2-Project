@@ -57,7 +57,7 @@ public class Database {
     }
     
     
-    public static void userLogin(String username, String password) throws SAXException, ParserConfigurationException, XPathExpressionException, TransformerException {
+    public static boolean userLogin(String username, String password) throws SAXException, ParserConfigurationException, XPathExpressionException, TransformerException {
         
         database1.username = username;
         database1.password = password;
@@ -84,28 +84,27 @@ public class Database {
                     if (eElement.getElementsByTagName("Username").item(0).getTextContent().equals(username) 
                         && eElement.getElementsByTagName("Password").item(0).getTextContent().equals(password)){
                             Login = 1;
-                            System.out.println("Login successful");
                             Timestamp timestamp = new Timestamp(System.currentTimeMillis());
                             System.out.println("You logged in at " + timestamp);
                             String id = eElement.getAttribute("id");
                             String str = timestamp.toString();
                             SendToXml(str, id);
                             database1.setFlag(false);
+                            if (Login==1) {return true;}
                             break;
                     }
                 }
             }  
             
             if (Login == 0) {
-            System.out.println("\nInvalid username and password combination. Please try again.");
-            iteration();
+            return false;
             }
             
         } catch (IOException e) {
             e.printStackTrace(); 
         }
         
-        
+       return false; 
     }
     
     public static void iteration() throws SAXException {

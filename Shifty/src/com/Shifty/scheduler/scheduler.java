@@ -1,11 +1,17 @@
 package com.Shifty.scheduler;
 
+/**
+*
+* @author TODO add connors name and neptun
+*/
+
+
 class Variables {
     private Integer loginTime = 500;
     private Integer shiftStart = 800;
     private String userName = "Carlos";
     private String userEmail = "Carlos@late.com";
-    private Integer late;// 0- Flase 1- True , ill use it to keep track of if the user is late or not
+    private Integer late;// 0- False 1- True , ill use it to keep track of if the user is late or not
     
     //Getters
     public Integer getLoginTime(){
