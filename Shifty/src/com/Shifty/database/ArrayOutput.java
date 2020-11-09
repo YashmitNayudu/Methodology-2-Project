@@ -18,7 +18,7 @@ public class ArrayOutput {
     
     private String id;
     private String timestamp;
-    static ArrayOutput output1 = new ArrayOutput();
+    ArrayOutput output1;
 
     public String getId() { return id;}
     public String getTimestamp() { return timestamp;}

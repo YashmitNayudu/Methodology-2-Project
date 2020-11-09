@@ -28,7 +28,10 @@ public class Navigation {
 	public ModelAndView LoginPage() {
 		return new ModelAndView("login", "command", new Input());
 	}
-	
+	@RequestMapping(value = "/login", method = RequestMethod.GET)
+	public ModelAndView LoginPageUpdated() {
+		return new ModelAndView("login", "command", new Input());
+	}
 	
 	
 }
