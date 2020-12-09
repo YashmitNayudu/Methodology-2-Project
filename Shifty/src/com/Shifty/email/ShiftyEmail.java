@@ -1,5 +1,9 @@
-package com.Shifty.email;
-
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package ShiftyMailService;
 
 /**
  *JAVA project Methodology of Programming 2
@@ -12,10 +16,17 @@ package com.Shifty.email;
 public class ShiftyEmail {
     
     static String toEmail = "mailloggershifty@gmail.com";
+    static boolean late = true;
+    static boolean absent= true;
+    
     //Metjhod to deliver email to recepient 
     public static void main(String[] args) throws Exception {
-        ShiftyMail.sendMail(toEmail);
-
+        
+        if (late = true)
+            ShiftyLateMail.sendMail(toEmail);
+        
+        if (absent = true)
+            ShiftyAbsentMail.sendMail(toEmail);
     }
     
 }
