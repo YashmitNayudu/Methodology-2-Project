@@ -24,7 +24,7 @@ import javax.mail.internet.MimeMessage;
 public class ShiftyLateMail { //This is the class where the logic to send an email is written
 
     static String shiftyEmailAccount = "shiftymailnotification@gmail.com"; //requires valid gmail id
-    static String shiftyEmailPassword = "Shifty123456passJAVA"; // correct password for gmail id
+    static String shiftyEmailPassword = "**********"; // correct password for gmail id
     
     //This is the method where we set up the properties for the email to be send
     public static void sendMail(String recepient) throws Exception { 
