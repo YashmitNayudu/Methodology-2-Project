@@ -21,7 +21,7 @@ import javax.mail.internet.MimeMessage;
  */
 public class ShiftyAbsentMail {
     static String shiftyEmailAccount = "shiftymailnotification@gmail.com"; //requires valid gmail id
-    static String shiftyEmailPassword = "*************"; // correct password for gmail id
+    static String shiftyEmailPassword = "Shifty123456passJAVA"; // correct password for gmail id
     
     //This is the method where we set up the properties for the email to be send
     public static void sendMail(String recepient) throws Exception { 
@@ -47,25 +47,26 @@ public class ShiftyAbsentMail {
                 return new PasswordAuthentication(shiftyEmailAccount, shiftyEmailPassword);
             }
         });
-        
+         //create message object to in prespareMessage method 
         Message message = prepareMessage(session, shiftyEmailAccount, recepient);
         
-         // Send message
+         // create a transport instance to Send message
         Transport.send(message);
         System.out.println("Message sent successfully");
     }
      // Create the message body part
     private static Message prepareMessage(Session session, String shiftyEmailAccount, String recepient) {
         try{
-            Message message = new MimeMessage(session);
-            message.setFrom(new InternetAddress(shiftyEmailAccount));
-            message.setRecipient(Message.RecipientType.TO, new InternetAddress(recepient));
-            message.setSubject("Shifty Email Logger Message");
+            Message message = new MimeMessage(session); // MimeMessage uses the InternetHeaders class 
+            //to parse and store the top level RFC 822 headers of a message. The mail. mime.
+            message.setFrom(new InternetAddress(shiftyEmailAccount)); // email address from wheer the message will be send
+            message.setRecipient(Message.RecipientType.TO, new InternetAddress(recepient)); //this is for the recipient email to get the message
+            message.setSubject("Shifty Email Logger Message"); // Message subject
             message.setText("\nThis is a Shifty Email \n\n"
                     + "You have recieved this message becasue you have not come to WORK! \n"
                     + "You better have a very good explanation because you are in deep trouble. \n\n"
                     + "Thank you for your attention.\n\n"
-                    + "SEE YOU AT WORK!");
+                    + "SEE YOU AT WORK!"); // actual message to be sent
             
             return message;
         } catch (MessagingException ex) {   //exeption for email to get into email

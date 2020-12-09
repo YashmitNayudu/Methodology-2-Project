@@ -15,17 +15,17 @@ package ShiftyMailService;
 // Main class to send Email
 public class ShiftyEmail {
     
-    static String toEmail = "mailloggershifty@gmail.com";
-    static boolean late = true;
-    static boolean absent= true;
+    static String toEmail = "mailloggershifty@gmail.com"; // Tatribute for the recepient email
+    static boolean late = true; // atribute in case late mail has to be send 
+    static boolean absent= true; // atribute in case absent mail has to be send 
     
     //Metjhod to deliver email to recepient 
     public static void main(String[] args) throws Exception {
         
-        if (late = true)
+        if (late = true)  // codition to be applied if late is true
             ShiftyLateMail.sendMail(toEmail);
         
-        if (absent = true)
+        if (absent = true) // codition to be applied if absent is true
             ShiftyAbsentMail.sendMail(toEmail);
     }
     
