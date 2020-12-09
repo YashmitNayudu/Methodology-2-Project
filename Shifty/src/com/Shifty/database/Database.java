@@ -28,7 +28,6 @@ import javax.xml.transform.stream.StreamResult;
 import javax.xml.xpath.XPathExpressionException;
 
 /**
- *
  * @author Anoosha Sajid
  */
 public class Database {
