@@ -1,7 +1,7 @@
-<!doctype html>
 <%@ taglib prefix="spring" uri="http://www.springframework.org/tags"%>
-<spring:url value="/resources/image6.jpg" var="BackgrndIMG" />
-<html xmlns:th="https://www.thymeleaf.org">
+<spring:url value="/resources/background.jpg" var="BackgrndIMG" />
+<!doctype html>
+<html>
 <head>
 <meta charset="utf-8">
 <title>Java Project</title>
@@ -10,7 +10,9 @@ body {
 	background-image: url("${BackgrndIMG}");
 	background-repeat: no-repeat;
 	background-position: center;
-	background-size: cover;	
+	background-size: cover;
+	
+	
 }
 
 h1{
@@ -27,7 +29,6 @@ p{
 
 
 </style>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 </head>
 
 <body>
@@ -35,47 +36,45 @@ p{
   
 
 <p>Username
-  <input type="text" th:field="*{username}" />
+  <input type="text">
 </p>
 <p>Password
-  <input type="password" th:field="*{password}" />
+  <input type="password">
 </p>
 	
 <p>
-<input type="submit" value="Submit" />
+  <input name="Login" type="submit" id="Login">
 </p>
 	
 <table width="300" border="3" align="center" bordercolor="black">
-<h1> Login History</h1>
-		<table width="300" border="3" align="center" bordercolor="black"> <!-- inserting a table -->
   <tbody>
     <tr>
-		<td colspan="2"><p>Employee Login Record</p></td> <!-- caption of the table -->
+		<td colspan="2"><p>Employee Login Record</p></td>
       
     </tr>
     <tr>
-		<td><p>User</p></td> 
+		<td><p>User</p></td>
       <td><p>Time</p></td>
     </tr>
     <tr>
-      <td><p th:text="${lmao.username}" /></td> 
-      <td><p th:text="${lmao.time}" /></td> 
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p th:text="${lmao.username}" /></td> 
-      <td><p th:text="${lmao.time}" /></td> 
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
     </tr>
     <tr>
-      	<td><p th:text="${lmao.username}" /></td> 
-      <td><p th:text="${lmao.time}" /></td>
+      <td>&nbsp;</td>
+		<td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p th:text="${lmao.username}" /></td> 
-      <td><p th:text="${user3.time}" /></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><p th:text="${lmao.username}" /></td> 
-      <td><p th:text="${lmao.time}" /></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
     </tr>
   </tbody>
 </table>

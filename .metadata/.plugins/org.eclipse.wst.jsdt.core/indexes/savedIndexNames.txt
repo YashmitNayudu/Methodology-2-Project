@@ -1,9 +1,7 @@
-INDEX VERSION 1.4+C:\Users\yashm\Desktop\Methodology-2-Project-master\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-1001206988.index
-3795665692.index
+INDEX VERSION 1.4+C:\Users\yashm\Documents\UniPecs\Sem 3\Methodology-2-Project\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
 851402777.index
-2584357993.index
-3760980326.index
-2584357993.index
-2898325113.index
-104604482.index
+1823171477.index
+1225493975.index
+1680871696.index
+2940705128.index
+1680839067.index
