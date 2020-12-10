@@ -1,0 +1,28 @@
+
+/**
+ * @author yashmit
+ *
+ */
+
+package com.Shifty.controller;
+import javax.xml.stream.XMLStreamException;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.*;
+
+
+@Controller
+	
+	@GetMapping("/login")
+	public String LoginPage(Model m) {
+		return "login";
+	}
+	  @PostMapping("/login")
+	  public String greetingSubmit(Model model) {
+	    model.addAttribute("lmao", lmao);
+	    model.addAttribute("8:50", lmao1);
+	    return "result";
+	  }
+	
+}
